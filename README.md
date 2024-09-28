@@ -28,7 +28,7 @@
 | --- | --- | --- |
 | <div style="text-align: center;"><img src="https://github.com/user-attachments/assets/6f8a6845-4a1d-40f1-80cd-594f1e37c479" alt="SQLD" width="100"/></div> | SQLD | 한국데이터산업진흥원 |
 | <div style="text-align: center; vertical-align: middle;"><img src="https://github.com/user-attachments/assets/adbdaee3-a25f-4841-b9e5-1e0b9bb78f7d" alt="AWS SAA" width="100"/></div> | AWS SAA (AWS Certified Solutions Architect - Associate) | Amazon Web Services |
-| <div style="text-align: center;"><img src="https://github.com/user-attachments/assets/afa51e67-93ec-422c-bd44-8b00aae8b4db" alt="NCA" width="100"/></div> | NAC (NAVER CLOUD PLATFORM Certified Associate) | NAP (NAVER CLOUD PLATFORM) |
+| <div style="text-align: center;"><img src="https://github.com/user-attachments/assets/afa51e67-93ec-422c-bd44-8b00aae8b4db" alt="NCA" width="100"/></div> | NCA (NAVER CLOUD PLATFORM Certified Associate) | NAP (NAVER CLOUD PLATFORM) |
 
 <h2>💻MY Status</h2>
 
